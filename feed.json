@@ -2,12 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Eve O&#x27;Shea",
     "description": "",
-    "home_page_url": "https://evedora.github.io/Eve-Site-2",
-    "feed_url": "https://evedora.github.io/Eve-Site-2/feed.json",
+    "home_page_url": "https://eveoshea.com",
+    "feed_url": "https://eveoshea.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Eve O&#x27;Shea"
     },
     "items": [
+        {
+            "id": "https://eveoshea.com/recent-paintings-2.html",
+            "url": "https://eveoshea.com/recent-paintings-2.html",
+            "title": "Recent Paintings",
+            "summary": "Bayou St John",
+            "content_html": "<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://eveoshea.com/media/posts/2/gallery/Bayou_St_John.png\" data-size=\"5649x4302\"><img loading=\"lazy\" src=\"https://eveoshea.com/media/posts/2/gallery/Bayou_St_John-thumbnail.png\" alt=\"\" width=\"720\" height=\"548\"></a>\n<figcaption>Bayou St John</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://eveoshea.com/media/posts/2/gallery/241101-IMG_5434.jpg\" data-size=\"2775x2784\"><img loading=\"lazy\" src=\"https://eveoshea.com/media/posts/2/gallery/241101-IMG_5434-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"722\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://eveoshea.com/media/posts/2/gallery/WILL.png\" data-size=\"2683x2064\"><img loading=\"lazy\" src=\"https://eveoshea.com/media/posts/2/gallery/WILL-thumbnail.png\" alt=\"\" width=\"720\" height=\"554\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://eveoshea.com/media/posts/2/gallery/241101-IMG_5396-2.jpg\" data-size=\"5168x4049\"><img loading=\"lazy\" src=\"https://eveoshea.com/media/posts/2/gallery/241101-IMG_5396-2-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"564\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://eveoshea.com/media/posts/2/gallery/241101-IMG_5390.jpg\" data-size=\"7195x7194\"><img loading=\"lazy\" src=\"https://eveoshea.com/media/posts/2/gallery/241101-IMG_5390-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://eveoshea.com/media/posts/2/gallery/St-Luke-in-the-Fields.jpg\" data-size=\"4852x3771\"><img loading=\"lazy\" src=\"https://eveoshea.com/media/posts/2/gallery/St-Luke-in-the-Fields-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"559\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Eve O&#x27;Shea"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-10T20:16:35-05:00",
+            "date_modified": "2025-02-10T20:16:35-05:00"
+        }
     ]
 }
