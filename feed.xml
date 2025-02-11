@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Eve O&#x27;Shea</title>
-    <link href="https://eveoshea.com/feed.xml" rel="self" />
-    <link href="https://eveoshea.com" />
+    <link href="https://evedora.github.io/Eve-Site-2/feed.xml" rel="self" />
+    <link href="https://evedora.github.io/Eve-Site-2" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Eve O&#x27;Shea</name>
     </author>
-    <id>https://eveoshea.com</id>
+    <id>https://evedora.github.io/Eve-Site-2</id>
 
 </feed>
